@@ -6,6 +6,7 @@
 
 ## 博客导航
 ### 2017-11
+* [Spring IOC Bean 配置方式](https://github.com/confesser/Blog/issues/4)
 * [【转】Spring概述](https://github.com/confesser/Blog/issues/3)
 ### 2017-10
 * [源码分析：Spring容器初始化以及Bean初始化](https://github.com/confesser/Blog/issues/2)
