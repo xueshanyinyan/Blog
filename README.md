@@ -14,5 +14,7 @@
 * [写给未来的自己](https://github.com/confesser/Blog/issues/1)
 
 ## 推荐文章
+### 各类书单
+* [githup上流传的书单](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
 ### 代码规范
 * [阿里Java开发手册](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E7%BB%88%E6%9E%81%E7%89%88%EF%BC%89.pdf)
