@@ -13,7 +13,11 @@
 ### 2017-09
 * [写给未来的自己](https://github.com/confesser/Blog/issues/1)
 
-## 推荐文章
+## 个人推荐
+### 优选文章
+#### 数据库
+##### MySQL
+* [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 ### 各类书单
 * [githup上流传的书单](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
 ### 代码规范
