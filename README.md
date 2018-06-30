@@ -5,6 +5,8 @@
 坚持分享，绝不滥竽充数，请大家监督
 
 ## 博客导航
+### 2018-06
+* [使用MaxRows与FetchSize优化HiveJdbc中的SELECT操作](https://github.com/confesser/Blog/issues/6)
 ### 2017-11
 * [常见的几种Web攻击手段](https://github.com/confesser/Blog/issues/5)
 * [Spring概述](https://github.com/confesser/Blog/issues/3)
