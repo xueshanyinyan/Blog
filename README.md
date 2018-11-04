@@ -5,6 +5,8 @@
 坚持分享，绝不滥竽充数，请大家监督
 
 ## 博客导航
+### 2018-11
+* [Spark官方文档-RDD编程指南](https://github.com/confesser/Blog/issues/7)
 ### 2018-06
 * [使用MaxRows与FetchSize优化HiveJdbc中的SELECT操作](https://github.com/confesser/Blog/issues/6)
 ### 2017-11
